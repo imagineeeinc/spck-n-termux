@@ -1,0 +1,28 @@
+{
+  "name": "spck-n-termux",
+  "version": "1.0.0",
+  "description": "a system allowing you to use spck editor with termux on mobile",
+  "main": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagineeeinc/spck-n-termux.git"
+  },
+  "keywords": [
+    "spck",
+    "termux"
+  ],
+  "author": "imagineee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imagineeeinc/spck-n-termux/issues"
+  },
+  "homepage": "https://github.com/imagineeeinc/spck-n-termux#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs-extra": "^9.1.0",
+    "yargs": "^16.2.0"
+  }
+}
